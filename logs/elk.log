@@ -1,0 +1,35 @@
+2022-11-01 14:51:29.859  INFO 16344 --- [main] c.e.Assessment3.Assessment3Application   : Starting Assessment3Application on LAPTOP-N4VM1SAB with PID 16344 (C:\Users\khade\Downloads\Assessment3\assessment3Master\target\classes started by khade in C:\Users\khade\Downloads\Assessment3\assessment3Master)
+2022-11-01 14:51:29.866  INFO 16344 --- [main] c.e.Assessment3.Assessment3Application   : No active profile set, falling back to default profiles: default
+2022-11-01 14:51:32.819  INFO 16344 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 9898 (http)
+2022-11-01 14:51:32.850  INFO 16344 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2022-11-01 14:51:32.851  INFO 16344 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.33]
+2022-11-01 14:51:33.024  INFO 16344 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2022-11-01 14:51:33.024  INFO 16344 --- [main] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 3031 ms
+2022-11-01 14:51:33.324  INFO 16344 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2022-11-01 14:51:33.588  INFO 16344 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 9898 (http) with context path ''
+2022-11-01 14:51:33.597  INFO 16344 --- [main] c.e.Assessment3.Assessment3Application   : Started Assessment3Application in 4.938 seconds (JVM running for 5.864)
+2022-11-01 14:51:58.251  INFO 16344 --- [http-nio-9898-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-11-01 14:51:58.252  INFO 16344 --- [http-nio-9898-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2022-11-01 14:51:58.259  INFO 16344 --- [http-nio-9898-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 7 ms
+2022-11-01 14:53:07.886  INFO 16344 --- [SpringContextShutdownHook] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2022-11-01 14:53:25.929  INFO 2724 --- [main] c.e.Assessment3.Assessment3Application   : Starting Assessment3Application on LAPTOP-N4VM1SAB with PID 2724 (C:\Users\khade\Downloads\Assessment3\assessment3Master\target\classes started by khade in C:\Users\khade\Downloads\Assessment3\assessment3Master)
+2022-11-01 14:53:25.936  INFO 2724 --- [main] c.e.Assessment3.Assessment3Application   : No active profile set, falling back to default profiles: default
+2022-11-01 14:53:27.485  INFO 2724 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 9898 (http)
+2022-11-01 14:53:27.502  INFO 2724 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2022-11-01 14:53:27.502  INFO 2724 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.33]
+2022-11-01 14:53:27.623  INFO 2724 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2022-11-01 14:53:27.623  INFO 2724 --- [main] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 1576 ms
+2022-11-01 14:53:27.831  INFO 2724 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2022-11-01 14:53:28.034  INFO 2724 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 9898 (http) with context path ''
+2022-11-01 14:53:28.038  INFO 2724 --- [main] c.e.Assessment3.Assessment3Application   : Started Assessment3Application in 2.838 seconds (JVM running for 3.476)
+2022-11-01 14:53:40.302  INFO 2724 --- [http-nio-9898-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-11-01 14:53:40.303  INFO 2724 --- [http-nio-9898-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2022-11-01 14:53:40.316  INFO 2724 --- [http-nio-9898-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 12 ms
+2022-11-01 14:53:40.359  INFO 2724 --- [http-nio-9898-exec-1] c.e.Assessment3.Assessment3Application   : employee found : Employee(id=3, name=Rony, age=30, department=Sales)
+2022-11-01 14:59:20.568  INFO 2724 --- [http-nio-9898-exec-4] c.e.Assessment3.Assessment3Application   : employee found : Employee(id=1, name=John, age=23, department=IT)
+2022-11-01 16:02:24.687  INFO 2724 --- [SpringContextShutdownHook] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2022-11-01 16:31:13.430  INFO 14008 --- [main] c.e.A.Assessment3ApplicationTests        : Starting Assessment3ApplicationTests on LAPTOP-N4VM1SAB with PID 14008 (started by khade in C:\Users\khade\Downloads\Assessment3\assessment3Master)
+2022-11-01 16:31:13.432  INFO 14008 --- [main] c.e.A.Assessment3ApplicationTests        : No active profile set, falling back to default profiles: default
+2022-11-01 16:31:14.984  INFO 14008 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2022-11-01 16:31:15.295  INFO 14008 --- [main] c.e.A.Assessment3ApplicationTests        : Started Assessment3ApplicationTests in 2.45 seconds (JVM running for 3.609)
+2022-11-01 16:31:15.922  INFO 14008 --- [SpringContextShutdownHook] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
