@@ -6,4 +6,4 @@ server:
   port: 9898
 
 logging:
-  file: C:/Users/khade/Downloads/Assessment3/logs/elk.log
+  file: C:/Users/khade/Downloads/Assessment3/assessment3Master/elk.log
